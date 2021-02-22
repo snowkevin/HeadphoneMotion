@@ -1,0 +1,6 @@
+*.xcuserdatad
+xcuserdata/
+.DS_Store
+DerivedData
+SDK_OUTPUT/
+BUILD_OUTPUT/
